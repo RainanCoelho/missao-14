@@ -6,7 +6,6 @@ O sinal da estação foi perdido há 72 horas. Você chega sozinho, de traje, co
 
 > ⚠️ **Versão de teste (demo).** Contém a primeira fase. Feito em Unity 6 (URP).
 
-![Menu](imagens/menu.png)
 
 ---
 
