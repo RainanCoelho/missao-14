@@ -6,6 +6,7 @@ O sinal da estação foi perdido há 72 horas. Você chega sozinho, de traje, co
 
 > ⚠️ **Versão de teste (demo).** Contém a primeira fase. Feito em Unity 6 (URP).
 
+![Menu](imagens/menu.png)
 
 ---
 
@@ -43,7 +44,7 @@ O sinal da estação foi perdido há 72 horas. Você chega sozinho, de traje, co
 | Ver a arma e a munição | **F** |
 | Trocar de aba | **1 – 4** ou **← →** |
 | Escolher / usar | **↑ ↓** e **Enter** |
-| Sair do jogo | **Alt + F4** |
+| Pausar (continuar / sair do jogo) | **Esc** |
 
 ---
 
@@ -51,9 +52,10 @@ O sinal da estação foi perdido há 72 horas. Você chega sozinho, de traje, co
 
 - **Não há texto de missão na tela.** O que fazer fica nas **NOTAS** do computador de pulso — quando aparecer um **"!"** em cima do **TAB**, tem nota nova.
 - **O vidro do capacete é a sua tela:** correndo demais você fica sem fôlego, a respiração embaça o visor e a visão borra. Golpes de frente arranham o vidro.
-- **Oxigênio acaba com o tempo.** Recarregue nas máquinas de **O2** das paredes (marcadas no mapa).
+- **Oxigênio acaba com o tempo.** Recarregue nas máquinas de **O2** das paredes. Cada máquina guarda pouco oxigênio, mas volta a encher **aos poucos** com o tempo.
+- **Não sabe onde estão os fusíveis?** Procure o mapa brilhando numa das mesas do **refeitório** e aperte **E** para anotar.
 - No braço cabem só **6 itens**. Na tela cheia (**Q**) você vê a mochila inteira e escolhe quais 6 ficam no braço.
-- A estação está escura. A lanterna é sua melhor amiga — e a névoa esconde coisas.
+- A estação está escura e tomada por névoa: você só enxerga bem o que está perto. A lanterna é sua melhor amiga.
 
 ---
 
@@ -61,8 +63,9 @@ O sinal da estação foi perdido há 72 horas. Você chega sozinho, de traje, co
 
 | | |
 |---|---|
-| ![Jogo](imagens/jogo.png) | ![Computador de pulso](imagens/pulso.png) |
-| ![Inventário](imagens/inventario.png) | ![Mapa](imagens/mapa.png) |
+| ![Refeitório com o mapa dos fusíveis](imagens/jogo.png) | ![Computador de pulso](imagens/pulso.png) |
+| ![Inventário](imagens/inventario.png) | ![Mapa da estação](imagens/mapa.png) |
+| ![Pause](imagens/pausa.png) | |
 
 ---
 
